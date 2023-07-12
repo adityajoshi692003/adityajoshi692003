@@ -19,3 +19,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityajoshi692003&show_icons=true&locale=en" alt="adityajoshi692003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityajoshi692003&" alt="adityajoshi692003" /></p>
+
+[![An image of @aditya69's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aditya69)](https://holopin.io/@aditya69)
