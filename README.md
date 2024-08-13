@@ -14,8 +14,7 @@ Having the opportunity to make a positive impact is what inspires me to put my p
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adityajoshi692003&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityajoshi692003&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=adityajoshi692003&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
